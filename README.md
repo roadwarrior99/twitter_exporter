@@ -1,6 +1,8 @@
 # twitter_exporter
 Install python 3.12
 
+
+## SETUP
 Download or git clone this library to folder of your choice
 
 Open a command line window to your folder of choice for this program to live.
