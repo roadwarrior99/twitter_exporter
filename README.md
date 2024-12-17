@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## twitter exporters is now ready for use.
 
 # usage
-python3 export.py --json-file-in twitter.json --excel-file-out twiter.xlsx
+python3 export.py --json-file-in tweets.js --excel-file-out tweets.xlsx
 
 
 ## FYI
